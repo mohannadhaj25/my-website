@@ -1,12 +1,3 @@
-I understand you'd like a functional Instagram-like login page that's suitable for GitHub hosting. Here's my approach:
-
-1. Create a responsive, visually accurate Instagram login page clone
-2. Make sure it works properly when hosted on GitHub Pages
-3. Include realistic UI elements (logo, form, app store badges, etc.)
-4. Keep all functionality client-side only (no server-side code)
-5. Structure the files appropriately for GitHub hosting
-
-Here's the implementation:
 
 `index.html`
 ```html
